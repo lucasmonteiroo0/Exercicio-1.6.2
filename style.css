@@ -1,0 +1,22 @@
+*{
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+}
+img{
+    width: 5em;
+}
+.container{
+    width: auto;
+    height: 8em;
+    border: solid 1px #cccccc;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: .5em 0;
+}
+.box{
+    margin-left: .5em;
+    text-align: left;
+}
